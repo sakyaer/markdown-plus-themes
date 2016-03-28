@@ -3,7 +3,7 @@ body {
 }
 
 .ui-layout-east {
-  background: #f9fafb;
+  background: #f2f4f6;
 }
 
 .markdown-body {
@@ -246,7 +246,7 @@ hr.footnotes-sep {
 }
 
 .markdown-body blockquote {
-  border-left: 2px solid #e7ecee
+  border-left: 4px solid #e7ecee
 }
 
 .markdown-body h1 .octicon-link,
