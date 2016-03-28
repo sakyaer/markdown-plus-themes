@@ -1,13 +1,13 @@
 body {
-  background: #151515;
+  background: #f9fafb;
 }
 
 .ui-layout-east {
-  background: #151515;
+  background: #f9fafb;
 }
 
 .markdown-body {
-  color: #eaeaea;
+  color: #2c3f51;
   font-family:"微软雅黑";
 }
 
@@ -21,7 +21,7 @@ body {
 
 .markdown-body .highlight pre,
 .markdown-body pre {
-  background-color: #202020;
+  background-color: #328efe;
 }
 
 .markdown-body pre code {
