@@ -12,11 +12,11 @@ body {
 }
 
 .markdown-body table tr {
-  background: #282828;
+  background: #dddddd;
 }
 
 .markdown-body table tr:nth-child(2n) {
-  background: #2a2a2a;
+  background: #f9fafb;
 }
 
 .markdown-body .highlight pre,
@@ -246,7 +246,7 @@ hr.footnotes-sep {
 }
 
 .markdown-body blockquote {
-  border-left: 4px solid #e7ecee
+  border-left: 8px solid #e7ecee
 }
 
 .markdown-body h1 .octicon-link,
