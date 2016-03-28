@@ -239,6 +239,7 @@ text.actor {
 
 .markdown-body hr {
   background: #2c3f51;
+  height: 1px;
 }
 
 hr.footnotes-sep {
