@@ -234,7 +234,7 @@ text.actor {
 
 .markdown-body h1,
 .markdown-body h2 {
-  border-bottom: 1px dashed #2c3f51;
+  border-bottom: 1px dashed #f9fafb;
 }
 
 .markdown-body hr {
@@ -246,7 +246,7 @@ hr.footnotes-sep {
 }
 
 .markdown-body blockquote {
-  border-left: 4px solid #e7ecee
+  border-left: 2px solid #e7ecee
 }
 
 .markdown-body h1 .octicon-link,
