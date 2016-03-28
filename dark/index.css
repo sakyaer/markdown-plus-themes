@@ -12,7 +12,7 @@ body {
 }
 
 .markdown-body table tr {
-  background: #dddddd;
+  background: #f9fafb;
 }
 
 .markdown-body table tr:nth-child(2n) {
@@ -246,8 +246,7 @@ hr.footnotes-sep {
 }
 
 .markdown-body blockquote {
-  border-left: 8px solid #e7ebee
-  font-size:30px;
+  border-left: 8px solid #ee1111
 }
 
 .markdown-body h1 .octicon-link,
